@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Aroger12
-- 👀 I’m interested in Blockchain Technology  
-- 🌱 I’m currently learning Blockchain Technology  
+- 👋 Hi
 - 💞️ I’m looking to collaborate onBlockchain Technology
 - 📫 How to reach me ...vince123dba@gmail.com
 
